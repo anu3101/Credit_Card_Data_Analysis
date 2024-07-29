@@ -30,6 +30,8 @@ Total no. of transactions in year 2023 is-- 656K.<br>
 Total Customer Acquisition Cost is-- 972K. <br>
 Customers on the basis of gender-- Male: 4230 Female: 5880. <br>
 
+Detailed Analysis can be seen in Dashboard.
+
 
 
 
