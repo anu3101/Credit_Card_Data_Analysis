@@ -12,7 +12,7 @@ Power BI: For data visualization, DAX calculations, and dashboard building.<br>
 **Exploratory Data Analysis (EDA)**: Using SQL queries to explore and understand the dataset. <br>
 **Business Analysis**: Generating insights related to customer behavior, financial metrics, and business performance. <br>
 **Dashboard Building**: Visualizing the data and insights using Power BI. <br>
-# Datasets Process <br>
+# Datasets <br>
 credit_card.csv: Contains credit card usage information. <br>
 customer.csv: Contains demographic details of customers. <br>
 
@@ -21,4 +21,15 @@ customer.csv: Contains demographic details of customers. <br>
 **DAX Calculations**: Performed calculations and measures using DAX (Data Analysis Expressions) in Power BI. <br>
 **Dashboard Building**: Created interactive dashboards to visualize the insights and facilitate data-driven decision-making. <br>
 
-# Insights
+# Key Insights <br>
+This Report gives week on week transaction summary for different clients. <br>
+Total Revenue of the bank in credit cards is-- 54 Millions. <br>
+Total Amount in credit card transactions is-- 45 Millions. <br>
+Interest Earned by the bank is-- 7.84 Milllion.<br> 
+Total no. of transactions in year 2023 is-- 656K.<br>
+Total Customer Acquisition Cost is-- 972K. <br>
+Customers on the basis of gender-- Male: 4230 Female: 5880. <br>
+
+
+
+
